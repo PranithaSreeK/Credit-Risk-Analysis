@@ -25,4 +25,4 @@ and generate applicant-level risk scores.
 - `Credit_Risk_Analysis_Report.pdf` – Detailed project report
 
 ## Author
-Aakanksha Dara
+Pranitha Sree Kurmeti
